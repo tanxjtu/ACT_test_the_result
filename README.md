@@ -5,7 +5,7 @@ BY Haoliang Tan XJTU Computer science
 The ACtion Tubelet detector (ACT-detector) is a framework for action localization. 
 It takes as input sequences of frames and outputs tubelets, i.e., sequences of bounding boxes with associated scores.
 
-For more details, please refer to our [ICCV 2017 paper](https://hal.inria.fr/hal-01519812/document) and our [website](http://thoth.inrialpes.fr/src/ACTdetector/). 
+For more details, please refer to [ICCV 2017 paper](https://hal.inria.fr/hal-01519812/document) and [website](http://thoth.inrialpes.fr/src/ACTdetector/). 
 
 ## Citing ACT-detector
 
