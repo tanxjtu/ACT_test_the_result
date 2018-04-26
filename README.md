@@ -22,9 +22,9 @@ If you find ACT-detector useful in your research, please cite:
 1. add_tube.py
 
 ## Datasets
-###Hwo to use this code 
+How to use this code 
 1.you need to extract the tubes and tubelests at first!   Yan can find here https://github.com/vkalogeiton/caffe/tree/act-detector
-  but note that i only implement this project in DAtaset UCFSPORTS
+  but note that I only implement this project in Dataset {UCFSPORTS}
  
 2.After you do the first step you should get the {pkl} (such as 000001.pkl)files for each frames in test videos and {pkl}files
    (such as 001_tubes.pkl) for each test videos. 
