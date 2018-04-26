@@ -30,5 +30,6 @@ How to use this code
    (such as 001_tubes.pkl) for each test videos. 
 3.If you do not want to extract pkl files! (Because the step is very fussy the inefficiency), you can skip the first step dircetlly!
 4. JUst look the add_tube.py file is OK ! 
+    Link : https://pan.baidu.com/s/1gfAiKGb-glIzgCTerPufBA  Password: 1kmp
 
 ## Enjoy it ! Study together ! 
